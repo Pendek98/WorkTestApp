@@ -19,7 +19,7 @@ Maven 3.9.4
 # Launch
 ./mvnw spring-boot:run 
 
-send requests to "localhost:8080/repositories" with request body in such a format:
+send POST requests to "localhost:8080/repositories" with request body in such a format:
 
 {
 
